@@ -29,7 +29,7 @@ Your program should perform the following steps:
 
 #### Files Description:
 
-Carol.java: This is the class where you should implement your program logic.
+Carol.java: This is the class where contain main.
 
 Empty.arxml: This is an empty ARXML file for testing the empty file case.
 
